@@ -3,7 +3,7 @@ layout: post
 title: "iOS Continuous Integration & Delivery using Fastlane and Bitrise"
 date: 2020-04-17 10:00:00
 author: Martin Barreto
-categories: [CI, fastlane, bitrise]
+categories: [CI, fastlane, bitrise, iOS]
 category: development
 author_id: mtnBarreto
 featured_image: /images/ios-fastlane-ci/featured.png
